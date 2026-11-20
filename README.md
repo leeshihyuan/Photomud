@@ -7,7 +7,7 @@
 版本：5.0.0　｜　官網：<https://www.photomud.com>　｜　平台：Windows 10 / 11
 
 
-![Photomud](https://github.com/leeshihyuan/Photomud/blob/main/Photomud-v500.png "Photomud")
+![Photomud](https://github.com/leeshihyuan/Photomud/blob/main/Photomud-UI-V500-Bombax-Golf-Country-Club.png "Photomud")
 
 ---
 
